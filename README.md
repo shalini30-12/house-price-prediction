@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4367c20f-62f4-41e9-af60-3331ee757737" />
+
 
 
 # 🏠 House Price Prediction
@@ -18,8 +18,7 @@ The application is built using **Python, Scikit-learn and Streamlit** and provid
 ---
 
 ## 📸 Application Preview
-
-![House Price Prediction](image.png)
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4367c20f-62f4-41e9-af60-3331ee757737" />
 
 ---
 
